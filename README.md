@@ -8,7 +8,8 @@ Hi. Im Roar Falch Hanssen
 
 🧑‍🎓 I study Front-End Development at full time too (do not recommend - its hard), because my interests have alwas been around Information Technology and Webdesign is  one of my primary interests. 
 
-
+🔨 Im currently working at my Portefolio Project in my study
+🪓 At my job Im working to get a new serversolution running where we can host some of our websoulutions internally.
 
 ## Contact
 
